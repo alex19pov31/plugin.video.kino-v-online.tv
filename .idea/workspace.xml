@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addon.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="addon.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/addon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5832013" vertical-offset="136" max-vertical-offset="3096">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3096">
               <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding>
                 <element signature="e#25#56#0" expanded="true" />
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addon.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="addon.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addon.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="644">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -367,21 +367,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addon.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/addon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5832013" vertical-offset="136" max-vertical-offset="3096">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3096">
           <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
           <folding>
             <element signature="e#25#56#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="644">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
