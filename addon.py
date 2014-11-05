@@ -71,9 +71,6 @@ class SiteScrapper:
             if self.isLinkUseful(link):
                 self.addDir(title, link, 'videos', None, '1')
 
-    def test(self):
-        print 123
-
     def SubCategories(self, params):
         if params['sub_categories'] is None:
             return False
@@ -125,8 +122,9 @@ class SiteScrapper:
 
     def getUrl(self, url):
         conn = urllib2.urlopen(urllib2.Request(url, urllib.urlencode({}), self.headers))
-        return conn.geturl()
+        result = conn.geturl()
         conn.close()
+        return result
 
     def getParams(self):
         param = None
